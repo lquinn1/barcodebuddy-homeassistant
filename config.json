@@ -1,4 +1,5 @@
 {
+  "init": false,
   "name": "Barcode Buddy for Grocy",
   "version": "dev-docker-based",
   "slug": "bbuddy-grocy",
